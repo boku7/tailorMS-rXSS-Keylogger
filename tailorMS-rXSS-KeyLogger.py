@@ -61,13 +61,13 @@ def banner():
     return BANNER
 
 def printKey(key):
-    keyGen  = S[3]+C+' _______\n' 
-    keyGen += C+'|\     /|\n'
-    keyGen += C+'| +---+ |\n'
-    keyGen += C+'| |   | |\n'
-    keyGen += C+'| | '+R+key+C+' | |\n'
-    keyGen += C+'| +---+ |\n'
-    keyGen += C+'|/_____\|'+F[0]+S[0]
+    keyGen  = S[3]+C+'     _______\n' 
+    keyGen += C+'    |\     /|\n'
+    keyGen += C+'    | +---+ |\n'
+    keyGen += C+'    | |   | |\n'
+    keyGen += C+'    | | '+R+key+C+' | |\n'
+    keyGen += C+'    | +---+ |\n'
+    keyGen += C+'    |/_____\|'+F[0]+S[0]
     return keyGen         
 
 def header():
