@@ -1,5 +1,5 @@
 # Exploit Title: Tailor MS v1.0 - Reflected XSS Key Logger
-# Exploit Author: Bobby Cooke (boku)
+# Exploit Author: Bobby Cooke (boku)  & Adeeb Shah (@hyd3sec)
 # Date: August 9th, 2020
 # Vendor Homepage: https://www.sourcecodester.com
 # Software Link: https://www.sourcecodester.com/sites/default/files/download/Warren%20Daloyan/tailor.zip
